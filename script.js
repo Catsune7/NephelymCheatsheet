@@ -50,6 +50,8 @@ function initializeCheatsheet(data) {
 			btn.dataset.search = Object.values(entry).join(" ").toLowerCase();
 
 			btn.addEventListener("click", () => {
+				document.querySelectorAll(".variant-item").forEach(b => b.classList.remove("selected"));
+				btn.classList.add("selected");
 				let html = `<h2>${entry.Race} (${entry.Species})</h2>
                     <p><strong>Gender:</strong> ${entry.Gender}</p>
                     <p><strong>Size:</strong> ${entry.Size}</p>`;
