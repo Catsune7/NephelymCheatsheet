@@ -85,6 +85,8 @@ function initializeCheatsheet(data) {
 	}
 }
 
-fetch("data.json")
-	.then(r => r.json())
-	.then(data => initializeCheatsheet(data));
+document.addEventListener("DOMContentLoaded", () => {
+	fetch("data.json")
+		.then(r => r.json())
+		.then(data => initializeCheatsheet(data));
+});
