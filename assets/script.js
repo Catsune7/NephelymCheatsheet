@@ -88,7 +88,7 @@ function initializeCheatsheet(data) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-	fetch("data.json")
+	fetch("./assets/data.json")
 		.then(r => r.json())
 		.then(data => initializeCheatsheet(data));
 });
