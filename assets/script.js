@@ -66,7 +66,33 @@ function initializeCheatsheet(data) {
       const btn = document.createElement("div");
       btn.className = "variant-item";
       btn.textContent = entry.Race;
-      btn.dataset.search = (Object.values(entry).join(" ") || "").toLowerCase();
+      
+	  const searchTokens = [];
+
+      // 1) Keep original flat values
+      searchTokens.push(Object.values(entry).join(" "));
+      
+      // 2) Include normalized parents (for hybrid entries), e.g., "Bovaur (Ayrshire, Bull), Demon"
+      if (Array.isArray(entry.Parents)) {
+        searchTokens.push(formatParents(entry.Parents, entry["Hybrid of"]));
+      } else if (entry["Hybrid of"]) {
+        searchTokens.push(entry["Hybrid of"]);
+      }
+      
+      // 3) Include Hybrid Pairings detail so searching a HYBRID (e.g., "Unicorn") finds the PARENTS
+      if (Array.isArray(entry["Hybrid Pairings"])) {
+        entry["Hybrid Pairings"].forEach(rule => {
+      	// hybrid name itself (e.g., "Unicorn")
+      	if (rule.hybrid) searchTokens.push(rule.hybrid);
+      	// partner species/races (so searches like "Bovaur Minotaur" match)
+      	if (rule.partnerSpecies) searchTokens.push(rule.partnerSpecies);
+      	if (Array.isArray(rule.partnerRaces)) searchTokens.push(...rule.partnerRaces);
+      	// and a readable composed line
+      	searchTokens.push(formatPairingRule(rule));
+        });
+      }
+
+      btn.dataset.search = searchTokens.filter(Boolean).join(" ").toLowerCase();
 
       btn.addEventListener("click", () => {
         document.querySelectorAll(".variant-item").forEach(b => b.classList.remove("selected"));
@@ -77,7 +103,6 @@ function initializeCheatsheet(data) {
                     <p><strong>Size:</strong> ${entry.Size}</p>`;
 
         if (entry["Is Hybrid"] === "Yes") {
-          // NEW: use Parents if present; fallback to existing "Hybrid of" text
           const parentsFormatted = formatParents(entry.Parents, entry["Hybrid of"]);
           if (parentsFormatted) {
             html += `<p><strong>Hybrid of:</strong> ${parentsFormatted}</p>`;
