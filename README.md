@@ -6,5 +6,6 @@ You can find the game here: https://store.steampowered.com/app/1161770/Breeders_
 - Search box to quickly find races with details that match your search input. Search results are marked with a blue color.
 - Clicking any of the buttons for a race opens a detail box with information about that specific race. Currently selected button is highlighted with a yellow color.
 
-<img width="1362" height="1079" alt="image" src="https://github.com/user-attachments/assets/a7fbc85c-66d8-4346-a38d-f40b90b1003b" />
+<img width="1309" height="1093" alt="image" src="https://github.com/user-attachments/assets/60b3d400-5512-4bf8-9a97-3024a09f9f66" />
+
 
