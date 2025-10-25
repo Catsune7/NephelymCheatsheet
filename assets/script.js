@@ -99,16 +99,16 @@ function initializeCheatsheet(data) {
         btn.classList.add("selected");
 
         let html = `<h2>${entry.Race} (${entry.Species})</h2>
-                    <p><strong>Gender:</strong> ${entry.Gender}</p>
+                    <div class="basic-info"><p><strong>Gender:</strong> ${entry.Gender}</p>
                     <p><strong>Size:</strong> ${entry.Size}</p>`;
 
         if (entry["Is Hybrid"] === "Yes") {
           const parentsFormatted = formatParents(entry.Parents, entry["Hybrid of"]);
           if (parentsFormatted) {
-            html += `<p><strong>Hybrid of:</strong> ${parentsFormatted}</p>`;
+            html += `</div><p><strong>Hybrid of:</strong> ${parentsFormatted}</p>`;
           }
         } else {
-          html += `<p><strong>Location:</strong> ${entry.Location}</p>`;
+          html += `<p><strong>Location:</strong> ${entry.Location}</p></div>`;
           const liquidsStr = typeof entry["Preferred Liquids"] === "string"
             ? entry["Preferred Liquids"]
             : Array.isArray(entry["Preferred Liquids"])
