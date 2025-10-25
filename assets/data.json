@@ -1,737 +1,1237 @@
 {
-    "Bovaur": [
+  "Bovaur": [
+    {
+      "Race": "Ayrshire",
+      "Species": "Bovaur",
+      "Gender": "Female & Futa",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Foxen Milk, Formurian Milk, Demon Milk, Dragon Milk, Harpy Milk, Hybrid Milk, Neko Milk, Risu Milk, Seraphim Milk, Starfallen Milk, Sylvan Milk, Thriae Milk, Titan Milk, Vulwarg Milk",
+      "Location": "Pleasure Pastures",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "D Aptitude",
+      "Essence 3": "Fertile 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Fertile 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Ayrshire",
-            "Species": "Bovaur",
-            "Gender": "Female & Futa",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Foxen Milk, Formurian Milk, Demon Milk, Dragon Milk, Harpy Milk, Hybrid Milk, Neko Milk, Risu Milk, Seraphim Milk, Starfallen Milk, Sylvan Milk, Thriae Milk, Titan Milk, Vulwarg Milk",
-            "Location": "Pleasure Pastures",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "D Aptitude",
-            "Essence 3": "Fertile 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Fertile 3"
+          "partnerSpecies": "Demon",
+          "hybrid": "Kusarikku"
         },
         {
-            "Race": "Bull",
-            "Species": "Bovaur",
-            "Gender": "Male",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Dragon Milk",
-            "Location": "Pleasure Pastures",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "D Aptitude",
-            "Essence 3": "Hung 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Hung 3"
+          "partnerSpecies": "Foxen",
+          "hybrid": "Akabeko"
         },
         {
-            "Race": "Mare",
-            "Species": "Bovaur",
-            "Gender": "Female & Futa",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Sylvan Semen",
-            "Location": "Pleasure Pastures",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Libido",
-            "Essence 3": "Swift 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Swift 3"
-        },
-        {
-            "Race": "Minotaur",
-            "Species": "Bovaur",
-            "Gender": "Female & Futa",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Vulwarg Semen",
-            "Location": "Virgin Breaks",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Hornball 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Hornball 3"
+          "partnerSpecies": "Seraphim",
+          "hybrid": "Lamassu"
         }
-    ],
-    "Demon": [
+      ]
+    },
+    {
+      "Race": "Bull",
+      "Species": "Bovaur",
+      "Gender": "Male",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Dragon Milk",
+      "Location": "Pleasure Pastures",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "D Aptitude",
+      "Essence 3": "Hung 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Hung 3"
+    },
+    {
+      "Race": "Mare",
+      "Species": "Bovaur",
+      "Gender": "Female & Futa",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Sylvan Semen",
+      "Location": "Pleasure Pastures",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Libido",
+      "Essence 3": "Swift 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Swift 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Cambion",
-            "Species": "Demon",
-            "Gender": "Female & Futa",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Dragon Semen, Seraphim Semen",
-            "Location": "Moaning Crag",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "D Fertility",
-            "Essence 3": "Busty 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Busty 3"
-        },
-        {
-            "Race": "Incubus",
-            "Species": "Demon",
-            "Gender": "Male",
-            "Size": "Huge 10ft",
-            "Preferred Liquids": "Seraphim Milk",
-            "Location": "Moaning Crag",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Satyriasis 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Satyriasis 3"
-        },
-        {
-            "Race": "Succubus",
-            "Species": "Demon",
-            "Gender": "Female & Futa",
-            "Size": "Normal 6ft",
-            "Preferred Liquids": "Harpy Semen",
-            "Location": "Moaning Crag",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Nymphomaniac 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Nymphomaniac 3"
+          "partnerSpecies": "Sylvan",
+          "hybrid": "Unicorn",
+          "partnerRaces": [
+            "Elf"
+          ]
         }
-    ],
-    "Dragon": [
+      ]
+    },
+    {
+      "Race": "Minotaur",
+      "Species": "Bovaur",
+      "Gender": "Female & Futa",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Vulwarg Semen",
+      "Location": "Virgin Breaks",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Hornball 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Hornball 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Drake",
-            "Species": "Dragon",
-            "Gender": "Male",
-            "Size": "Huge 10ft",
-            "Preferred Liquids": "Titan Milk",
-            "Location": "Virgin Breaks",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Stoic 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Stoic 3"
+          "partnerSpecies": "Dragon",
+          "hybrid": "Surabhi"
         },
         {
-            "Race": "Wyvern",
-            "Species": "Dragon",
-            "Gender": "Female & Futa",
-            "Size": "Huge 10ft",
-            "Preferred Liquids": "Harpy Semen",
-            "Location": "Virgin Breaks",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Hedonist 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Hedonist 3"
+          "partnerSpecies": "Titan",
+          "hybrid": "Kujata"
         }
-    ],
-    "Formurian": [
+      ]
+    }
+  ],
+  "Demon": [
+    {
+      "Race": "Cambion",
+      "Species": "Demon",
+      "Gender": "Female & Futa",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Dragon Semen, Seraphim Semen",
+      "Location": "Moaning Crag",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "D Fertility",
+      "Essence 3": "Busty 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Busty 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Shark",
-            "Species": "Formurian",
-            "Gender": "Female & Futa",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Dragon Semen",
-            "Location": "Cove of Rapture",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Libido",
-            "Essence 3": "Juicy 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Juicy 3"
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Kusarikku",
+          "partnerRaces": [
+            "Ayrshire"
+          ]
+        },
+        {
+          "partnerSpecies": "Dragon",
+          "hybrid": "Jabberwock"
+        },
+        {
+          "partnerSpecies": "Foxen",
+          "hybrid": "Kumiho"
+        },
+        {
+          "partnerSpecies": "Neko",
+          "hybrid": "Bakeneko"
+        },
+        {
+          "partnerSpecies": "Seraphim",
+          "hybrid": "Daeva"
+        },
+        {
+          "partnerSpecies": "Titan",
+          "hybrid": "Oni"
+        },
+        {
+          "partnerSpecies": "Vulwarg",
+          "hybrid": "Hellhound"
         }
-    ],
-    "Foxen": [
+      ]
+    },
+    {
+      "Race": "Incubus",
+      "Species": "Demon",
+      "Gender": "Male",
+      "Size": "Huge 10ft",
+      "Preferred Liquids": "Seraphim Milk",
+      "Location": "Moaning Crag",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Satyriasis 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Satyriasis 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Sionnach",
-            "Species": "Foxen",
-            "Gender": "Male",
-            "Size": "Normal 6ft",
-            "Preferred Liquids": "Foxen Milk",
-            "Location": "Lustwood",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "D Aptitude",
-            "Essence 3": "Swift 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Swift 3"
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Kusarikku",
+          "partnerRaces": [
+            "Ayrshire"
+          ]
         },
         {
-            "Race": "Vulpuss",
-            "Species": "Foxen",
-            "Gender": "Female & Futa",
-            "Size": "Normal 6ft",
-            "Preferred Liquids": "Vulwarg Semen",
-            "Location": "Lustwood",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "D Aptitude",
-            "Essence 3": "Swift 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Swift 3"
+          "partnerSpecies": "Dragon",
+          "hybrid": "Jabberwock"
+        },
+        {
+          "partnerSpecies": "Foxen",
+          "hybrid": "Kumiho"
+        },
+        {
+          "partnerSpecies": "Neko",
+          "hybrid": "Bakeneko"
+        },
+        {
+          "partnerSpecies": "Seraphim",
+          "hybrid": "Daeva"
+        },
+        {
+          "partnerSpecies": "Titan",
+          "hybrid": "Oni"
+        },
+        {
+          "partnerSpecies": "Vulwarg",
+          "hybrid": "Hellhound"
         }
-    ],
-    "Harpy": [
+      ]
+    },
+    {
+      "Race": "Succubus",
+      "Species": "Demon",
+      "Gender": "Female & Futa",
+      "Size": "Normal 6ft",
+      "Preferred Liquids": "Harpy Semen",
+      "Location": "Moaning Crag",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Nymphomaniac 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Nymphomaniac 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Bat",
-            "Species": "Harpy",
-            "Gender": "Female & Futa",
-            "Size": "Tiny 4ft",
-            "Preferred Liquids": "Demon Milk",
-            "Location": "Amorous Hallows",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Libido",
-            "Essence 3": "Charmer 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Charmer 3"
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Kusarikku",
+          "partnerRaces": [
+            "Ayrshire"
+          ]
         },
         {
-            "Race": "Kestrel",
-            "Species": "Harpy",
-            "Gender": "Female & Futa",
-            "Size": "Small 5ft",
-            "Preferred Liquids": "Foxen Semen",
-            "Location": "Lewd Desert",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Charmer 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Charmer 3"
+          "partnerSpecies": "Dragon",
+          "hybrid": "Jabberwock"
+        },
+        {
+          "partnerSpecies": "Foxen",
+          "hybrid": "Kumiho"
+        },
+        {
+          "partnerSpecies": "Neko",
+          "hybrid": "Bakeneko"
+        },
+        {
+          "partnerSpecies": "Seraphim",
+          "hybrid": "Daeva"
+        },
+        {
+          "partnerSpecies": "Titan",
+          "hybrid": "Oni"
+        },
+        {
+          "partnerSpecies": "Vulwarg",
+          "hybrid": "Hellhound"
         }
-    ],
-    "Hybrid": [
+      ]
+    }
+  ],
+  "Dragon": [
+    {
+      "Race": "Drake",
+      "Species": "Dragon",
+      "Gender": "Male",
+      "Size": "Huge 10ft",
+      "Preferred Liquids": "Titan Milk",
+      "Location": "Virgin Breaks",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Stoic 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Stoic 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Akabeko",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Normal (6ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Foxen, Bovaur (Ayrshire or Bull)  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
+          "partnerSpecies": "Demon",
+          "hybrid": "Jabberwock"
         },
         {
-            "Race": "Amaru",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Large (8ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Foxen, Dragon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
+          "partnerSpecies": "Foxen",
+          "hybrid": "Amaru"
         },
         {
-            "Race": "Bakeneko",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Large (8ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Neko, Demon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
+          "partnerSpecies": "Harpy",
+          "hybrid": "Basilisk",
+          "partnerRaces": [
+            "Kestrel"
+          ]
         },
         {
-            "Race": "Basilisk",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Large (8ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Kestrel, Dragon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Surabhi",
+          "partnerRaces": [
+            "Mare"
+          ]
         },
         {
-            "Race": "Catsune",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Normal (6ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Foxen, Neko  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
+          "partnerSpecies": "Titan",
+          "hybrid": "Ryu"
         },
         {
-            "Race": "Daeva",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Large (8ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Demon, Seraphim  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Griffin",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Normal (6ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Neko, Kestrel  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Hellhound",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Large (8ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Vulwarg, Demon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Jabberwock",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Huge (10ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Dragon, Demon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Kludde",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Huge (10ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Vulwarg, Dragon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Kujata",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Massive (15ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Minotaur, Titan  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Kumiho",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Normal (6ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Foxen, Demon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Kusarikku",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Large (8ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Bovaur (Ayrshire or Bull), Demon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Lamassu",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Normal (6ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Bovaur (Ayrshire or Bull), Seraphim  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Oni",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Massive (15ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Titan, Demon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Ryu",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Massive (15ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Dragon, Titan  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Surabhi",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Huge (10ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Minotaur, Dragon  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Tenko",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Normal (6ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Foxen, Seraphim  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
-        },
-        {
-            "Race": "Unicorn",
-            "Species": "Hybrid",
-            "Gender": "Female, Futa",
-            "Size": "Large (8ft)",
-            "Preferred Liquids": "",
-            "Location": "",
-            "Is Hybrid": "Yes",
-            "Can Make Hybrid": "No",
-            "Hybrid of": "Mare, Elf  ",
-            "Essence 2": "",
-            "Essence 3": "",
-            "Essence 4": "",
-            "Essence 5": ""
+          "partnerSpecies": "Vulwarg",
+          "hybrid": "Kludde"
         }
-    ],
-    "Neko": [
+      ]
+    },
+    {
+      "Race": "Wyvern",
+      "Species": "Dragon",
+      "Gender": "Female & Futa",
+      "Size": "Huge 10ft",
+      "Preferred Liquids": "Harpy Semen",
+      "Location": "Virgin Breaks",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Hedonist 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Hedonist 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Tabby",
-            "Species": "Neko",
-            "Gender": "Female & Futa",
-            "Size": "Normal 6ft",
-            "Preferred Liquids": "Bovaur Milk, Seraphim Milk",
-            "Location": "Sultry Plateau",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Aptitude",
-            "Essence 3": "Nymphomaniac 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Nymphomaniac 3"
-        }
-    ],
-    "Risu": [
-        {
-            "Race": "Bunny",
-            "Species": "Risu",
-            "Gender": "Female & Futa",
-            "Size": "Small 5ft",
-            "Preferred Liquids": "Thriae Semen",
-            "Location": "Lustwood",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Libido",
-            "Essence 3": "Hornball 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Hornball 3"
-        }
-    ],
-    "Seraphim": [
-        {
-            "Race": "Malakhim",
-            "Species": "Seraphim",
-            "Gender": "Female & Futa",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Demon Semen",
-            "Location": "Sensual Heavens",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "D Libido",
-            "Essence 3": "Divine 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Divine 3"
-        }
-    ],
-    "Starfallen": [
-        {
-            "Race": "Carrier",
-            "Species": "Starfallen",
-            "Gender": "Female",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Starfallen Milk, Starfallen Semen",
-            "Location": "Lewd Desert",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Libido",
-            "Essence 3": "Melding 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Melding 3"
+          "partnerSpecies": "Demon",
+          "hybrid": "Jabberwock"
         },
         {
-            "Race": "Seeder",
-            "Species": "Starfallen",
-            "Gender": "Male",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Starfallen Milk, Starfallen Semen",
-            "Location": "Lewd Desert",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Melding 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Melding 3"
+          "partnerSpecies": "Foxen",
+          "hybrid": "Amaru"
         },
         {
-            "Race": "Spore",
-            "Species": "Starfallen",
-            "Gender": "Futa",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Starfallen Milk, Starfallen Semen",
-            "Location": "Lewd Desert",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Melding 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Melding 3"
-        }
-    ],
-    "Sylvan": [
-        {
-            "Race": "Elf",
-            "Species": "Sylvan",
-            "Gender": "Female & Futa",
-            "Size": "Normal 6ft",
-            "Preferred Liquids": "Demon Semen, Seraphim Semen",
-            "Location": "Esoteric Glade",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Libido",
-            "Essence 3": "Debauched 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Debauched 3"
+          "partnerSpecies": "Harpy",
+          "hybrid": "Basilisk",
+          "partnerRaces": [
+            "Kestrel"
+          ]
         },
         {
-            "Race": "Goblin",
-            "Species": "Sylvan",
-            "Gender": "Female & Futa",
-            "Size": "Tiny 4ft",
-            "Preferred Liquids": "Titan Semen",
-            "Location": "Amorous Hallows",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Aptitude",
-            "Essence 3": "Diminutive 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Diminutive 3"
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Surabhi",
+          "partnerRaces": [
+            "Mare"
+          ]
         },
         {
-            "Race": "Orc",
-            "Species": "Sylvan",
-            "Gender": "Female & Futa",
-            "Size": "Large 8ft",
-            "Preferred Liquids": "Demon Semen, Vulwarg Semen",
-            "Location": "Esoteric Glade",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "D Aptitude",
-            "Essence 3": "Stoic 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Stoic 3"
+          "partnerSpecies": "Titan",
+          "hybrid": "Ryu"
         },
         {
-            "Race": "Slime",
-            "Species": "Sylvan",
-            "Gender": "Female & Futa",
-            "Size": "Normal 6ft",
-            "Preferred Liquids": "Hybrid Semen",
-            "Location": "Esoteric Glade",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Debauched 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Debauched 3"
+          "partnerSpecies": "Vulwarg",
+          "hybrid": "Kludde"
         }
-    ],
-    "Thriae": [
+      ]
+    }
+  ],
+  "Formurian": [
+    {
+      "Race": "Shark",
+      "Species": "Formurian",
+      "Gender": "Female & Futa",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Dragon Semen",
+      "Location": "Cove of Rapture",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Libido",
+      "Essence 3": "Juicy 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Juicy 3"
+    }
+  ],
+  "Foxen": [
+    {
+      "Race": "Sionnach",
+      "Species": "Foxen",
+      "Gender": "Male",
+      "Size": "Normal 6ft",
+      "Preferred Liquids": "Foxen Milk",
+      "Location": "Lustwood",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "D Aptitude",
+      "Essence 3": "Swift 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Swift 3",
+      "Hybrid Pairings": [
         {
-            "Race": "Bee",
-            "Species": "Thriae",
-            "Gender": "Female & Futa",
-            "Size": "Normal 6ft",
-            "Preferred Liquids": "Foxen Semen",
-            "Location": "Hivelands",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Libido",
-            "Essence 3": "Nectar 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Nectar 3"
-        }
-    ],
-    "Titan": [
-        {
-            "Race": "Colossus",
-            "Species": "Titan",
-            "Gender": "Female & Futa",
-            "Size": "Massive 15ft",
-            "Preferred Liquids": "Bovaur Milk",
-            "Location": "Climax Peak",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Libido",
-            "Essence 3": "Enlarged 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Enlarged 3"
-        }
-    ],
-    "Vulwarg": [
-        {
-            "Race": "Lykos",
-            "Species": "Vulwarg",
-            "Gender": "Female & Futa",
-            "Size": "Huge 10ft",
-            "Preferred Liquids": "Titan Semen",
-            "Location": "Lustwood",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Hornball 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Hornball 3"
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Akabeko",
+          "partnerRaces": [
+            "Ayrshire"
+          ]
         },
         {
-            "Race": "Wulf",
-            "Species": "Vulwarg",
-            "Gender": "Male",
-            "Size": "Huge 10ft",
-            "Preferred Liquids": "Bovaur Milk",
-            "Location": "Lustwood",
-            "Is Hybrid": "No",
-            "Can Make Hybrid": "Yes",
-            "Hybrid of": "",
-            "Essence 2": "C Fertility",
-            "Essence 3": "Hornball 2",
-            "Essence 4": "Level 42",
-            "Essence 5": "Hornball 3"
+          "partnerSpecies": "Dragon",
+          "hybrid": "Amaru"
+        },
+        {
+          "partnerSpecies": "Demon",
+          "hybrid": "Kumiho"
+        },
+        {
+          "partnerSpecies": "Neko",
+          "hybrid": "Catsune"
+        },
+        {
+          "partnerSpecies": "Seraphim",
+          "hybrid": "Tenko"
         }
-    ]
+      ]
+    },
+    {
+      "Race": "Vulpuss",
+      "Species": "Foxen",
+      "Gender": "Female & Futa",
+      "Size": "Normal 6ft",
+      "Preferred Liquids": "Vulwarg Semen",
+      "Location": "Lustwood",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "D Aptitude",
+      "Essence 3": "Swift 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Swift 3",
+      "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Akabeko",
+          "partnerRaces": [
+            "Ayrshire"
+          ]
+        },
+        {
+          "partnerSpecies": "Dragon",
+          "hybrid": "Amaru"
+        },
+        {
+          "partnerSpecies": "Demon",
+          "hybrid": "Kumiho"
+        },
+        {
+          "partnerSpecies": "Neko",
+          "hybrid": "Catsune"
+        },
+        {
+          "partnerSpecies": "Seraphim",
+          "hybrid": "Tenko"
+        }
+      ]
+    }
+  ],
+  "Harpy": [
+    {
+      "Race": "Bat",
+      "Species": "Harpy",
+      "Gender": "Female & Futa",
+      "Size": "Tiny 4ft",
+      "Preferred Liquids": "Demon Milk",
+      "Location": "Amorous Hallows",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Libido",
+      "Essence 3": "Charmer 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Charmer 3"
+    },
+    {
+      "Race": "Kestrel",
+      "Species": "Harpy",
+      "Gender": "Female & Futa",
+      "Size": "Small 5ft",
+      "Preferred Liquids": "Foxen Semen",
+      "Location": "Lewd Desert",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Charmer 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Charmer 3",
+      "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Dragon",
+          "hybrid": "Basilisk"
+        },
+        {
+          "partnerSpecies": "Neko",
+          "hybrid": "Griffin"
+        }
+      ]
+    }
+  ],
+  "Hybrid": [
+    {
+      "Race": "Akabeko",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Normal (6ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Foxen, Bovaur (Ayrshire or Bull)  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Foxen"
+        },
+        {
+          "partnerSpecies": "Bovaur",
+          "partnerRaces": [
+            "Ayrshire",
+            "Bull"
+          ]
+        }
+      ]
+    },
+    {
+      "Race": "Amaru",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Large (8ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Foxen, Dragon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Foxen"
+        },
+        {
+          "partnerSpecies": "Dragon"
+        }
+      ]
+    },
+    {
+      "Race": "Bakeneko",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Large (8ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Neko, Demon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Neko"
+        },
+        {
+          "partnerSpecies": "Demon"
+        }
+      ]
+    },
+    {
+      "Race": "Basilisk",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Large (8ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Kestrel, Dragon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Kestrel"
+        },
+        {
+          "partnerSpecies": "Dragon"
+        }
+      ]
+    },
+    {
+      "Race": "Catsune",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Normal (6ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Foxen, Neko  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Foxen"
+        },
+        {
+          "partnerSpecies": "Neko"
+        }
+      ]
+    },
+    {
+      "Race": "Daeva",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Large (8ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Demon, Seraphim  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Demon"
+        },
+        {
+          "partnerSpecies": "Seraphim"
+        }
+      ]
+    },
+    {
+      "Race": "Griffin",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Normal (6ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Neko, Kestrel  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Neko"
+        },
+        {
+          "partnerSpecies": "Kestrel"
+        }
+      ]
+    },
+    {
+      "Race": "Hellhound",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Large (8ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Vulwarg, Demon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Vulwarg"
+        },
+        {
+          "partnerSpecies": "Demon"
+        }
+      ]
+    },
+    {
+      "Race": "Jabberwock",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Huge (10ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Dragon, Demon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Dragon"
+        },
+        {
+          "partnerSpecies": "Demon"
+        }
+      ]
+    },
+    {
+      "Race": "Kludde",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Huge (10ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Vulwarg, Dragon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Vulwarg"
+        },
+        {
+          "partnerSpecies": "Dragon"
+        }
+      ]
+    },
+    {
+      "Race": "Kujata",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Massive (15ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Minotaur, Titan  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Minotaur"
+        },
+        {
+          "partnerSpecies": "Titan"
+        }
+      ]
+    },
+    {
+      "Race": "Kumiho",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Normal (6ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Foxen, Demon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Foxen"
+        },
+        {
+          "partnerSpecies": "Demon"
+        }
+      ]
+    },
+    {
+      "Race": "Kusarikku",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Large (8ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Bovaur (Ayrshire or Bull), Demon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Bovaur",
+          "partnerRaces": [
+            "Ayrshire",
+            "Bull"
+          ]
+        },
+        {
+          "partnerSpecies": "Demon"
+        }
+      ]
+    },
+    {
+      "Race": "Lamassu",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Normal (6ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Bovaur (Ayrshire or Bull), Seraphim  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Bovaur",
+          "partnerRaces": [
+            "Ayrshire",
+            "Bull"
+          ]
+        },
+        {
+          "partnerSpecies": "Seraphim"
+        }
+      ]
+    },
+    {
+      "Race": "Oni",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Massive (15ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Titan, Demon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Titan"
+        },
+        {
+          "partnerSpecies": "Demon"
+        }
+      ]
+    },
+    {
+      "Race": "Ryu",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Massive (15ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Dragon, Titan  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Dragon"
+        },
+        {
+          "partnerSpecies": "Titan"
+        }
+      ]
+    },
+    {
+      "Race": "Surabhi",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Huge (10ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Minotaur, Dragon  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Minotaur"
+        },
+        {
+          "partnerSpecies": "Dragon"
+        }
+      ]
+    },
+    {
+      "Race": "Tenko",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Normal (6ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Foxen, Seraphim  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Foxen"
+        },
+        {
+          "partnerSpecies": "Seraphim"
+        }
+      ]
+    },
+    {
+      "Race": "Unicorn",
+      "Species": "Hybrid",
+      "Gender": "Female, Futa",
+      "Size": "Large (8ft)",
+      "Preferred Liquids": "",
+      "Location": "",
+      "Is Hybrid": "Yes",
+      "Can Make Hybrid": "No",
+      "Hybrid of": "Mare, Elf  ",
+      "Essence 2": "",
+      "Essence 3": "",
+      "Essence 4": "",
+      "Essence 5": "",
+      "Parents": [
+        {
+          "partnerSpecies": "Mare"
+        },
+        {
+          "partnerSpecies": "Elf"
+        }
+      ]
+    }
+  ],
+  "Neko": [
+    {
+      "Race": "Tabby",
+      "Species": "Neko",
+      "Gender": "Female & Futa",
+      "Size": "Normal 6ft",
+      "Preferred Liquids": "Bovaur Milk, Seraphim Milk",
+      "Location": "Sultry Plateau",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Aptitude",
+      "Essence 3": "Nymphomaniac 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Nymphomaniac 3",
+      "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Demon",
+          "hybrid": "Bakeneko"
+        },
+        {
+          "partnerSpecies": "Foxen",
+          "hybrid": "Catsune"
+        },
+        {
+          "partnerSpecies": "Harpy",
+          "hybrid": "Griffin",
+          "partnerRaces": [
+            "Kestrel"
+          ]
+        }
+      ]
+    }
+  ],
+  "Risu": [
+    {
+      "Race": "Bunny",
+      "Species": "Risu",
+      "Gender": "Female & Futa",
+      "Size": "Small 5ft",
+      "Preferred Liquids": "Thriae Semen",
+      "Location": "Lustwood",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Libido",
+      "Essence 3": "Hornball 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Hornball 3"
+    }
+  ],
+  "Seraphim": [
+    {
+      "Race": "Malakhim",
+      "Species": "Seraphim",
+      "Gender": "Female & Futa",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Demon Semen",
+      "Location": "Sensual Heavens",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "D Libido",
+      "Essence 3": "Divine 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Divine 3",
+      "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Lamassu",
+          "partnerRaces": [
+            "Ayrshire"
+          ]
+        },
+        {
+          "partnerSpecies": "Demon",
+          "hybrid": "Daeva"
+        },
+        {
+          "partnerSpecies": "Foxen",
+          "hybrid": "Tenko"
+        }
+      ]
+    }
+  ],
+  "Starfallen": [
+    {
+      "Race": "Carrier",
+      "Species": "Starfallen",
+      "Gender": "Female",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Starfallen Milk, Starfallen Semen",
+      "Location": "Lewd Desert",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Libido",
+      "Essence 3": "Melding 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Melding 3"
+    },
+    {
+      "Race": "Seeder",
+      "Species": "Starfallen",
+      "Gender": "Male",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Starfallen Milk, Starfallen Semen",
+      "Location": "Lewd Desert",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Melding 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Melding 3"
+    },
+    {
+      "Race": "Spore",
+      "Species": "Starfallen",
+      "Gender": "Futa",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Starfallen Milk, Starfallen Semen",
+      "Location": "Lewd Desert",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Melding 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Melding 3"
+    }
+  ],
+  "Sylvan": [
+    {
+      "Race": "Elf",
+      "Species": "Sylvan",
+      "Gender": "Female & Futa",
+      "Size": "Normal 6ft",
+      "Preferred Liquids": "Demon Semen, Seraphim Semen",
+      "Location": "Esoteric Glade",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Libido",
+      "Essence 3": "Debauched 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Debauched 3",
+      "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Unicorn",
+          "partnerRaces": [
+            "Mare"
+          ]
+        }
+      ]
+    },
+    {
+      "Race": "Goblin",
+      "Species": "Sylvan",
+      "Gender": "Female & Futa",
+      "Size": "Tiny 4ft",
+      "Preferred Liquids": "Titan Semen",
+      "Location": "Amorous Hallows",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Aptitude",
+      "Essence 3": "Diminutive 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Diminutive 3"
+    },
+    {
+      "Race": "Orc",
+      "Species": "Sylvan",
+      "Gender": "Female & Futa",
+      "Size": "Large 8ft",
+      "Preferred Liquids": "Demon Semen, Vulwarg Semen",
+      "Location": "Esoteric Glade",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "D Aptitude",
+      "Essence 3": "Stoic 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Stoic 3"
+    },
+    {
+      "Race": "Slime",
+      "Species": "Sylvan",
+      "Gender": "Female & Futa",
+      "Size": "Normal 6ft",
+      "Preferred Liquids": "Hybrid Semen",
+      "Location": "Esoteric Glade",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Debauched 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Debauched 3"
+    }
+  ],
+  "Thriae": [
+    {
+      "Race": "Bee",
+      "Species": "Thriae",
+      "Gender": "Female & Futa",
+      "Size": "Normal 6ft",
+      "Preferred Liquids": "Foxen Semen",
+      "Location": "Hivelands",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Libido",
+      "Essence 3": "Nectar 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Nectar 3"
+    }
+  ],
+  "Titan": [
+    {
+      "Race": "Colossus",
+      "Species": "Titan",
+      "Gender": "Female & Futa",
+      "Size": "Massive 15ft",
+      "Preferred Liquids": "Bovaur Milk",
+      "Location": "Climax Peak",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Libido",
+      "Essence 3": "Enlarged 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Enlarged 3",
+      "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Demon",
+          "hybrid": "Oni"
+        },
+        {
+          "partnerSpecies": "Dragon",
+          "hybrid": "Ryu"
+        },
+        {
+          "partnerSpecies": "Bovaur",
+          "hybrid": "Kujata",
+          "partnerRaces": [
+            "Minotaur"
+          ]
+        }
+      ]
+    }
+  ],
+  "Vulwarg": [
+    {
+      "Race": "Lykos",
+      "Species": "Vulwarg",
+      "Gender": "Female & Futa",
+      "Size": "Huge 10ft",
+      "Preferred Liquids": "Titan Semen",
+      "Location": "Lustwood",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Hornball 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Hornball 3",
+      "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Demon",
+          "hybrid": "Hellhound"
+        },
+        {
+          "partnerSpecies": "Dragon",
+          "hybrid": "Kludde"
+        }
+      ]
+    },
+    {
+      "Race": "Wulf",
+      "Species": "Vulwarg",
+      "Gender": "Male",
+      "Size": "Huge 10ft",
+      "Preferred Liquids": "Bovaur Milk",
+      "Location": "Lustwood",
+      "Is Hybrid": "No",
+      "Can Make Hybrid": "Yes",
+      "Hybrid of": "",
+      "Essence 2": "C Fertility",
+      "Essence 3": "Hornball 2",
+      "Essence 4": "Level 42",
+      "Essence 5": "Hornball 3",
+      "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Demon",
+          "hybrid": "Hellhound"
+        },
+        {
+          "partnerSpecies": "Dragon",
+          "hybrid": "Kludde"
+        }
+      ]
+    }
+  ]
 }
