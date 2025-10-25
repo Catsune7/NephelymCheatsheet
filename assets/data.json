@@ -43,6 +43,20 @@
       "Essence 3": "Hung 2",
       "Essence 4": "Level 42",
       "Essence 5": "Hung 3"
+	  "Hybrid Pairings": [
+        {
+          "partnerSpecies": "Demon",
+          "hybrid": "Kusarikku"
+        },
+        {
+          "partnerSpecies": "Foxen",
+          "hybrid": "Akabeko"
+        },
+        {
+          "partnerSpecies": "Seraphim",
+          "hybrid": "Lamassu"
+        }
+      ]
     },
     {
       "Race": "Mare",
@@ -114,7 +128,8 @@
           "partnerSpecies": "Bovaur",
           "hybrid": "Kusarikku",
           "partnerRaces": [
-            "Ayrshire"
+            "Ayrshire",
+			"Bull"
           ]
         },
         {
@@ -162,7 +177,8 @@
           "partnerSpecies": "Bovaur",
           "hybrid": "Kusarikku",
           "partnerRaces": [
-            "Ayrshire"
+            "Ayrshire",
+			"Bull"
           ]
         },
         {
@@ -210,7 +226,8 @@
           "partnerSpecies": "Bovaur",
           "hybrid": "Kusarikku",
           "partnerRaces": [
-            "Ayrshire"
+            "Ayrshire",
+			"Bull"
           ]
         },
         {
@@ -373,7 +390,8 @@
           "partnerSpecies": "Bovaur",
           "hybrid": "Akabeko",
           "partnerRaces": [
-            "Ayrshire"
+            "Ayrshire",
+			"Bull"
           ]
         },
         {
@@ -413,7 +431,8 @@
           "partnerSpecies": "Bovaur",
           "hybrid": "Akabeko",
           "partnerRaces": [
-            "Ayrshire"
+            "Ayrshire",
+			"Bull"
           ]
         },
         {
@@ -639,7 +658,10 @@
           "partnerSpecies": "Neko"
         },
         {
-          "partnerSpecies": "Kestrel"
+          "partnerSpecies": "Harpy",
+		  "partnerRaces": [
+		    "Kestrel"
+		  ]
         }
       ]
     },
@@ -999,7 +1021,8 @@
           "partnerSpecies": "Bovaur",
           "hybrid": "Lamassu",
           "partnerRaces": [
-            "Ayrshire"
+            "Ayrshire",
+			"Bull"
           ]
         },
         {
