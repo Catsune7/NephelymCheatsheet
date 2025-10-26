@@ -124,9 +124,9 @@ function initializeCheatsheet(data) {
 
           if (Array.isArray(entry["Hybrid Pairings"]) && entry["Hybrid Pairings"].length) {
             const lines = entry["Hybrid Pairings"].map(formatPairingRule);
-            html += `<div class="hybrid-pairings"><strong>Can make Hybrids with:</strong><br>`;
+            html += `<p"><strong>Can make Hybrids with:</strong><br>`;
             html += lines.map(l => `<span class="pill">${l}</span>`).join("");
-            html += `</div>`;
+            html += `</p>`;
           }
         }
 
