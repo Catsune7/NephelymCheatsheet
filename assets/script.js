@@ -44,7 +44,7 @@ function initializeCheatsheet(data) {
     const species = rule.partnerSpecies || "";
     const races = Array.isArray(rule.partnerRaces) ? rule.partnerRaces.filter(Boolean) : [];
     const partner = races.length ? `${species} (${races.join(", ")})` : species;
-    return `with ${partner} → ${rule.hybrid}`;
+    return `${partner} → ${rule.hybrid}`;
   }
 
   const orderedSpecies = Object.keys(data).sort((a, b) =>
@@ -115,18 +115,18 @@ function initializeCheatsheet(data) {
               ? entry["Preferred Liquids"].join(", ")
               : ""; // guard
           html += `<p><strong>Preferred Liquids:</strong><br>
-                   ${liquidsStr.split(", ").filter(Boolean).map(x => `<span class="essence-tag">${x}</span>`).join(" ")}</p>`;
+                   ${liquidsStr.split(", ").filter(Boolean).map(x => `<span class="pill">${x}</span>`).join(" ")}</p>`;
           html += `<p><strong>Essence Levels:</strong><br>
-                   <span class="essence-tag">2: ${entry["Essence 2"]}</span>
-                   <span class="essence-tag">3: ${entry["Essence 3"]}</span>
-                   <span class="essence-tag">4: ${entry["Essence 4"]}</span>
-                   <span class="essence-tag">5: ${entry["Essence 5"]}</span></p>`;
+                   <span class="pill">2: ${entry["Essence 2"]}</span>
+                   <span class="pill">3: ${entry["Essence 3"]}</span>
+                   <span class="pill">4: ${entry["Essence 4"]}</span>
+                   <span class="pill">5: ${entry["Essence 5"]}</span></p>`;
 
           if (Array.isArray(entry["Hybrid Pairings"]) && entry["Hybrid Pairings"].length) {
             const lines = entry["Hybrid Pairings"].map(formatPairingRule);
-            html += `<div class="hybrid-pairings"><strong>Can make Hybrids:</strong><ul>`;
-            html += lines.map(l => `<li>${l}</li>`).join("");
-            html += `</ul></div>`;
+            html += `<div class="hybrid-pairings"><strong>Can make Hybrids with:</strong><br>`;
+            html += lines.map(l => `<span class="pill">${l}</span>`).join("");
+            html += `</div>`;
           }
         }
 
